@@ -1,5 +1,6 @@
 pizza_id,order_id,pizza_name_id,quantity,order_date,order_time,unit_price,total_price,pizza_size,pizza_category,pizza_ingredients
 2,2,classic_dlx_m,1,01-01-2015,11:57:40,16,16,M,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon"
+2,2,classic_dlx_m,1,01-01-2015,11:57:40,16,16,M,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon"
 3,2,five_cheese_l,1,01-01-2015,11:57:40,18.5,18.5,L,Veggie,"Mozzarella Cheese, Provolone Cheese, Smoked Gouda Cheese, Romano Cheese, Blue Cheese, Garlic"
 4,2,ital_supr_l,1,01-01-2015,11:57:40,20.75,20.75,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic"
 5,2,mexicana_m,1,01-01-2015,11:57:40,16,16,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic"
